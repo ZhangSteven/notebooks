@@ -1,2 +1,2 @@
 # notebooks
-Jupyter Notebooks
+A place to try Jupyter notebooks.
